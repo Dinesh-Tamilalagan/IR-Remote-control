@@ -19,3 +19,5 @@ The demodulated signal is fed to a CD4017 decade counter, which sequentially act
 The decoded outputs from the CD4017 are used to control multiple switching channels (up to 6).
 
 Each channel corresponds to a dedicated button on the remote, allowing independent control of six different devices or functionalities.
+
+# Working Model (PCB)
