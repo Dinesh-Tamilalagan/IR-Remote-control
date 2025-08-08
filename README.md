@@ -21,3 +21,5 @@ The decoded outputs from the CD4017 are used to control multiple switching chann
 Each channel corresponds to a dedicated button on the remote, allowing independent control of six different devices or functionalities.
 
 # Working Model (PCB)
+Transmitter
+![image alt](https://github.com/Dinesh-Tamilalagan/IR-Remote-control/blob/53997b03741ccf23c1089ba83a9a0b5257bbcedf/Screenshot%202025-08-08%20091541.png)
